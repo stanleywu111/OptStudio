@@ -14,4 +14,39 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WorkSpace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Asset.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetType.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AttributeSet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Case.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Portfolio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IDSet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RiskModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Status.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="enum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
